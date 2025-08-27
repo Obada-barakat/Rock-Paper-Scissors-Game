@@ -10,7 +10,7 @@ Play against the computer, track scores in real time, and enjoy a clean, respons
 - 🎨 Clean and minimal design
 
 ## Demo
-*(Add link once deployed, e.g., Vercel, Netlify, or GitHub Pages)*
+*(https://rock-paper-scissors-game-indol-six.vercel.app/)*
 
 ##Technologies Used
 
