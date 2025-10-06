@@ -12,17 +12,17 @@ Play against the computer, track scores in real time, and enjoy a clean, respons
 ## Demo
 *(https://rock-paper-scissors-game-indol-six.vercel.app/)*
 
-##Technologies Used
+## Technologies Used
 
 - React.js
 - JavaScript (ES6+)
 - CSS
 
-##Future Improvements
+## Future Improvements
 
 - Add animations and sound effects
 - Keep score history across sessions
 - Add multiplayer mode
 
-  ##License
+  ## License
 This project is licensed under the MIT License.
